@@ -21,8 +21,7 @@ Open Figma Files: Open the Figma files using the Figma desktop or web applicatio
 
 Navigate Through Designs: Navigate through the different screens and prototypes to get a comprehensive understanding of the app's design and functionality.
 
-Screenshots:
-![Screenshot 1](screenshots/screenshot1.png)
+
 
 
 

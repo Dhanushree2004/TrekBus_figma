@@ -1,6 +1,8 @@
 # TrekBus_figma
 This repository contains the Figma design files for the Treak Bus booking app. Treak Bus is a hypothetical bus booking platform designed to provide users with a seamless experience for booking bus tickets online.
+
 Features:
+
 User Authentication: Secure user authentication flow allowing users to sign up, log in, and manage their accounts.
 
 Bus Search and Booking: Users can search for available bus routes, view details such as departure times, bus types, and prices, and proceed to book their tickets.
